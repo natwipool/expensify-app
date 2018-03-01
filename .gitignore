@@ -1,2 +1,6 @@
 node_modules/
 .vscode/
+public/bundld.js
+public/bundld.js.map
+public/styles.css
+public/styles.css.map
